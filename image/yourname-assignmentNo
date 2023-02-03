@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dev Class</title>
+</head>
+<body>
+    <!--Types of html tags
+        i) Paired Tags (Opening and Closing Tags)
+        ii) Unpaired Tags (Singular Tag)
+    
+    -->
+
+    <!-- Types of heading tags -->
+    <h1>Heading</h1>
+    <h2>Heading</h2>
+    <h3>Heading</h3>
+    <h4>Heading</h4>
+    <h5>Heading</h5>
+    <h6>Heading</h6>
+
+    
+    <!-- br tag is used for line break-->
+    <br>
+    
+    <b>Bold Me</b>
+
+    <br>
+
+    <strong> Do i look like bold me</strong> <br>
+
+    <u>underline me</u>
+    
+    <i>Italic</i> <br>
+
+    <em>emphasize the particular text in a paragraph.</em>
+
+    <code>This is a code</code>
+
+    <font size="5"> Heading </font>
+
+    <p>This is a paragraph</p>
+
+    <!--For horizental line (thematic change in the content)-->
+    <hr> 
+
+
+
+
+</body>
+</html>
